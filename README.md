@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Azir</h1>
-<h3 align="left">Currently living in Porto, Portugal. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
+<h3 align="left">Currently living in Dublin, Ireland. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
 <br/>
 
 - 🌱 I’m currently learning **Full Stack Development**
