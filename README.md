@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/azir9200)
 
-- 💬 Ask me about **React, JavaScript, Tailwind and Express**
+- 💬 Ask me about **React, JavaScript, Typescript Tailwind and Express**
 
 - 📫 How to reach me **azir9200@gmail.com**
 
@@ -29,6 +29,38 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azir9200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/azir9200) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azir9200@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/azirzaif)
 
 </div>
+## 💻 Internship & Team Projects
+
+| Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
+|---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+| ## 💻 Internship & Team Projects
+
+| Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
+|---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+| Parcel-Trade  | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz)        | [Live Demo](https://parcel-trade.vercel.app/)             |
+| E-Store       | Full-stack eCommerce website for online shopping, featuring product listings, user authentication, and a smooth checkout experience. | [GitHub](https://github.com/abidt20ahmed/e-store)           | [Live Demo](https://e-store-green.vercel.app/)            |
+| Voting System | An online voting platform built for secure, transparent voting in various events and elections, supporting real-time results and retry mechanisms. | [GitHub](https://github.com/dreamwarrior6m/Electronic-Voting-System) | [Live Demo](https://electronic-voting-system-beta.vercel.app/) |
+
+---
+
+# 💼 Solo Projects
+
+Here is a collection of my solo full-stack and frontend web development projects. Each project includes GitHub repositories and live demo links.
+
+| Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| *Latest Food Display*     | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via *SSLCommerz/ShurjoPay*, user authentication (JWT), role-based access, and admin content moderation. Built with *Next.js*, *Tailwind CSS*, *Node.js*, *Express*, *Prisma*, *PostgreSQL*. | [GitHub](https://github.com/jsjunayet/street_food_frontend)                                 | [Live Demo](https://streegrub.vercel.app/)                 |
+| *e-commerce-project*             | A frontend website for browsing and buying products online. checking product, detailed views, and filters for easier search experience.       | [GitHub(frontend)](https://github.com/azir9200/imagine-redux-story)                                           | [Live Demo](https://imagine-redux-story-rc3proyr3-azir-uddins-projects.vercel.app) |
+| *PH Health Care*   | A platform where users can book appointments and reservations with available service providers.                                                  | [GitHub](https://github.com/azir9200/ph_healthcare_frontend-)  | https://github.com/azir9200/PH-HEALTHCARE-SERVER                                   | [Live Demo](https://ph-healthcare-frontend-3h5s6uw25-azir-uddins-projects.vercel.app/)         |
+| *ResearchUstad*           | A research collaboration platform for academics and professionals. Allows managing research tasks, members, and project timelines.               | [GitHub](https://github.com/jsjunayet/researchustad_backend)                                 | [Live Demo](https://r-ustad.vercel.app/)                   |
+| *Blood Donation App*      | A community platform to connect blood donors with recipients and hospitals. Includes donor registration, search, and emergency features.         | [GitHub](https://github.com/jsjunayet/blood_donation_project)                                | [Live Demo](#) (Coming Soon)                            |
+
+---
+github.com  | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz)        | [Live Demo](https://parcel-trade.vercel.app/)             |
+| E-Store       | Full-stack eCommerce website for online shopping, featuring product listings, user authentication, and a smooth checkout experience. | [GitHub](https://github.com/abidt20ahmed/e-store)           | [Live Demo](https://e-store-green.vercel.app/)            |
+| Voting System | An online voting platform built for secure, transparent voting in various events and elections, supporting real-time results and retry mechanisms. | [GitHub](https://github.com/dreamwarrior6m/Electronic-Voting-System) | [Live Demo](https://electronic-voting-system-beta.vercel.app/) |
+
+---
 
 # 💻 Tech Stack:
 
