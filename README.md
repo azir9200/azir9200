@@ -7,16 +7,16 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Azir</h1>
-<h3 align="left">Currently living in Dublin, Ireland. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
+<h3 align="left">Currently living in Porto, Portugal. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
 <br/>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/azir9200)
 
-- 💬 Ask me about **React, JavaScript, Typescript Tailwind and Express**
+- 💬 Ask me about **React, JavaScript, Typescript, NextJS, Redux,  Tailwind and Express, MongoDB, Mongoose, Prisma, Postgresql, NextUi, DaisyUi, Postman, FireBase, Vercel Netlyfi, JWT**
 
-- 📫 How to reach me **azir9200@gmail.com**
+- 📫 How to reach me **aziruddin83@gmail.com**
 
 - 📄 Know about my experiences [github.com](github.com)
 
@@ -33,7 +33,7 @@
 
 | Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
 |---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
-| ## 💻 Internship & Team Projects
+| ## 💻 Team Projects
 
 | Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
 |---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
