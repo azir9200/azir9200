@@ -29,17 +29,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azir9200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/azir9200) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azir9200@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/azirzaif)
 
 </div>
-## 💻 Internship & Team Projects
 
-| Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
-|---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
-| ## 💻 Team Projects
 
-| Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
-|---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
-| Parcel-Trade  | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz)        | [Live Demo](https://parcel-trade.vercel.app/)             |
-
----
 
 # 💼 Solo Projects
 
@@ -47,12 +38,11 @@ Here is a collection of my solo full-stack and frontend web development projects
 
 | Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| *Latest Food Display*     | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via *SSLCommerz/ShurjoPay*, user authentication (JWT), role-based access, and admin content moderation. Built with *Next.js*, *Tailwind CSS*, *Node.js*, *Express*, *Prisma*, *PostgreSQL*. | [GitHub](https://github.com/jsjunayet/street_food_frontend)                                 | [Live Demo](https://streegrub.vercel.app/)                 |
-| *e-commerce-project*             | A frontend website for browsing and buying products online. checking product, detailed views, and filters for easier search experience.       | [GitHub](https://github.com/azir9200/imagine-redux-story)                                           | [Live Demo](https://imagine-redux-story-rc3proyr3-azir-uddins-projects.vercel.app) |
-| *PH Health Care*   |   It is hospital Management project where have doctor , patients, admin  or user can play a diffrent roleabout health/hopital related.                  | [GitHub](https://github.com/azir9200/ph_healthcare_frontend-)  | https://github.com/azir9200/PH-HEALTHCARE-SERVER            | [Live Demo](https://ph-healthcare-frontend-3h5s6uw25-azir-uddins-projects.vercel.app/)         |
+| *Latest Food Display*     | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via *SSLCommerz/ShurjoPay*, user authentication (JWT), role-based access, and admin content moderation. Built with *Next.js*, *Tailwind CSS*, *Node.js*, *Express*, *Prisma*, *PostgreSQL*. | [GitHub](https://github.com/azir9200/latest_food_display)                                 | [Live Demo](https://latest-food-display.vercel.app)                 |
+| *e-commerce-project*             | A frontend website for browsing and buying products online.       | [GitHub](https://github.com/azir9200/imagine-redux-story)                                           | [Live Demo](https://imagine-redux-story.vercel.app) |
+| *PH Health Care*   |   It is hospital Management project where have doctor , patients, admin  or user can play a diffrent role about health and hospital related.                  | [GitHub](https://github.com/azir9200/ph_healthcare_frontend)          | [Live Demo](https://ph-healthcare-frontend-two.vercel.app)         |
 | *Book Store Project*           | A Book Display project that showing a list of book. A platform where users can book appointments and reservations with available service providers.               | [GitHub](https://github.com/azir9200/explore-nextjs-nextui)                                 | [Live Demo](https://car-refresh-service-jnlaye4h3-azir-uddins-projects.vercel.app/shop)                   |
-| *Car Washing Services*      | A Car Washing Project that  allows customer to get all business benefit from that. Includes service details , schedule,  search, and others features.         | [GitHub](https://github.com/azir9200/car-wash-client)                                | [Live Demo] (https://car-wash-client-five.vercel.app)                            |
-| Awsome Fitness Mind | It is Fitness project that is build with Nextjs. | [GitHub](https://github.com/azir9200/awsome-next-blogiz) | [Live Demo](https://awsome-next-blogiz.vercel.app) |
+
 
 ---
 ---
