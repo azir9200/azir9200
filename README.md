@@ -7,10 +7,10 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Azir</h1>
-<h3 align="left">Currently living in Dublin, Ireland. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
+<h3 align="left">I am living in Dublin, Ireland. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
 <br/>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a MERN stack developer with experience building full-stack web applications using React, Typescript, NextJs, Redux, RTK Query and Node.js MongoDB, Express.js. I help businesses bring their ideas to life by creating clean, scalable, and responsive web solutions.**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/azir9200)
 
@@ -32,9 +32,9 @@
 
 
 
-# 💼 Solo Projects
+# 💼 My latest projects
 
-Here is a collection of my solo full-stack and frontend web development projects. Each project includes GitHub repositories and live demo links.
+Here is a collection of my full-stack and frontend web development projects. Each project includes GitHub repositories and live demo links.
 
 | Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
