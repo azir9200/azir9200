@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Azir</h1>
-<h3 align="left">I am living in Dublin, Ireland. I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
+<h3 align="left"> I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
 <br/>
 
 - 🌱 I’m a MERN stack developer with experience building full-stack web applications using React, Typescript, NextJs, Redux, RTK Query and Node.js MongoDB, Express.js. I help businesses bring their ideas to life by creating clean, scalable, and responsive web solutions.**
