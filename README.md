@@ -10,13 +10,16 @@
 <h3 align="left"> I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
 <br/>
 
-- 🌱 I’m a MERN stack developer with experience building full-stack web applications using React, Typescript, NextJs, Redux, RTK Query and Node.js MongoDB, Express.js. I help businesses bring their ideas to life by creating clean, scalable, and responsive web solutions.**
+- 🌱 I'm a software developer with over 6 years of experience building web applications that are reliable, well-structured, and easy to maintain. Most of my work has been across full-stack environments, where I'm involved in everything from frontend development and API design to database work and supporting systems in production.
+I care a lot about writing clean, readable code and making sensible technical decisions that hold up over time. I enjoy solving problems, improving existing systems, and building things that are actually useful for the people who rely on them. I've worked both in-house and as a freelancer, which has given me a strong sense of ownership and accountability for the software I deliver.
+Earlier in my career, I worked in customer-facing roles. That experience shaped how I communicate today—listening carefully, asking the right questions, and turning real-world needs into practical solutions. It's also helped me work effectively with non-technical stakeholders and support other developers through mentoring and code reviews.
+Outside of work, I enjoy reading, cycling, and spending time in nature. Stepping away from the screen helps me reset and come back to problems with a clearer head.s.**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/azir9200)
 
 - 💬 Ask me about **React, JavaScript, Typescript, NextJS, Redux,  Tailwind and Express, MongoDB, Mongoose, Prisma, Postgresql, NextUi, DaisyUi, Postman, FireBase, Vercel Netlyfi, JWT**
 
-- 📫 How to reach me **aziruddin83@gmail.com**
+- 📫 How to reach me **aziruddin0106@gmail.com**
 
 - 📄 Know about my experiences [github.com](github.com)
 
