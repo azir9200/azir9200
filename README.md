@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Azir</h1>
-<h3 align="left"> I have completed a web development bootcamp, transitioning my passion for creativity into coding. Excited to embark on this new journey, blending my diverse experiences to craft captivating web experiences. 🌟🚀</h3>
+<h3 align="left">Nice to meet you!. 🌟🚀</h3>
 <br/>
 
 - 🌱 I'm a software developer with over 6 years of experience building web applications that are reliable, well-structured, and easy to maintain. Most of my work has been across full-stack environments, where I'm involved in everything from frontend development and API design to database work and supporting systems in production.
