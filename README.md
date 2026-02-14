@@ -4,27 +4,26 @@
 
 </div>
 
-# 💫 About Me:
-<h3 align="left"> Hi 👋 I'm Azir — a full-stack developer with 6+ years of experience building reliable and maintainable web applications.🌟🚀</h3>
+# 💫 About Me
 
-<br/>
+Hi 👋 I'm Azir — a full-stack developer with 6+ years of experience building reliable and maintainable web applications.
+
 🔹 Experienced across frontend, backend, APIs, and databases  
 🔹 Focused on clean architecture and practical solutions  
 🔹 Comfortable taking products from idea to production  
 🔹 Strong communicator with technical & non-technical teams  
-🔹 Always learning and improving
+🔹 Always learning and improving  
 
-- 🍃Outside of tech, I enjoy reading, cycling, and spending time in nature. Taking breaks away from the screen helps me return with fresh perspective and better solutions.**
+🍃 Outside of tech, I enjoy reading, cycling, and spending time in nature. Taking breaks away from the screen helps me return with a fresh perspective and better solutions.
 
-- 📍 All of my projects are available at [GitHub](github.com/azir9200)
+---
 
-- 💬 Ask me about  Frontend: React, Next.js, TypeScript, Tailwind, Redux
-Backend: Node.js, Express
-Database: MongoDB, PostgreSQL, Prisma
-Tools: Git, Postman, Firebase, Vercel, Netlify
+## 📫 Contact
+
+📧 aziruddin0106@gmail.com  
+📍 All projects: https://github.com/azir9200
 
 
-- 📫 How to reach me **aziruddin0106@gmail.com**
 
 - 📄 Know about my experiences [github.com](github.com)
 
