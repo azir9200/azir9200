@@ -10,10 +10,13 @@
 <h3 align="left">Nice to meet you!. 🌟🚀</h3>
 <br/>
 
-- 🌱 I'm a software developer with over 6 years of experience building web applications that are reliable, well-structured, and easy to maintain. Most of my work has been across full-stack environments, where I'm involved in everything from frontend development and API design to database work and supporting systems in production.
-I care a lot about writing clean, readable code and making sensible technical decisions that hold up over time. I enjoy solving problems, improving existing systems, and building things that are actually useful for the people who rely on them. I've worked both in-house and as a freelancer, which has given me a strong sense of ownership and accountability for the software I deliver.
-Earlier in my career, I worked in customer-facing roles. That experience shaped how I communicate today—listening carefully, asking the right questions, and turning real-world needs into practical solutions. It's also helped me work effectively with non-technical stakeholders and support other developers through mentoring and code reviews.
-Outside of work, I enjoy reading, cycling, and spending time in nature. Stepping away from the screen helps me reset and come back to problems with a clearer head.s.**
+- 🌱 I’m a software developer with over 6 years of experience building reliable, well-structured, and maintainable web applications. I’ve worked across full-stack environments, contributing to frontend features, API design, database development, and production support. I focus on writing clean, readable code and making practical technical decisions that stand the test of time.
+
+I enjoy solving real problems, improving existing systems, and building software that people genuinely find useful. My experience includes both in-house and freelance work, which has strengthened my sense of ownership, responsibility, and delivery quality.
+
+Earlier in my career, I worked in customer-facing roles. That background shaped how I communicate today — listening carefully, asking the right questions, and turning real-world needs into effective technical solutions. I work well with non-technical stakeholders and enjoy supporting other developers through mentoring and code reviews.
+
+Outside of tech, I enjoy reading, cycling, and spending time in nature. Taking breaks away from the screen helps me return with fresh perspective and better solutions.**
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/azir9200)
 
