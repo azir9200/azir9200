@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./github-header-image.png)
+![Header](./github-gpt.png.png)
 
 Full-Stack Developer • 6+ Years Experience • Clean & Practical Solutions
 
