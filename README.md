@@ -2,30 +2,60 @@
 
 ![Header](./github-header-image.png)
 
+Full-Stack Developer • 6+ Years Experience • Clean & Practical Solutions
+
 </div>
 
-# 💫 About Me
 
-Hi 👋 I'm Azir — a full-stack developer with 6+ years of experience building reliable and maintainable web applications.
-
-🔹 Experienced across frontend, backend, APIs, and databases  
-🔹 Focused on clean architecture and practical solutions  
-🔹 Comfortable taking products from idea to production  
-🔹 Strong communicator with technical & non-technical teams  
-🔹 Always learning and improving  
-
-🍃 Outside of tech, I enjoy reading, cycling, and spending time in nature. Taking breaks away from the screen helps me return with a fresh perspective and better solutions.
 
 ---
 
-## 📫 Contact
+# 💫 About Me
 
-📧 aziruddin0106@gmail.com  
-📍 All projects: https://github.com/azir9200
+I’m a full-stack developer with 6+ years of experience building reliable and maintainable web applications. I focus on clean architecture, practical solutions, and long-term code quality. I’m comfortable working across the stack — from UI to APIs to databases — and taking products from idea to production.
 
+🔹 Full-stack web application development  
+🔹 Clean, readable, maintainable code  
+🔹 API & system design  
+🔹 Production deployment & support  
+🔹 Strong collaboration & communication  
+🔹 Continuous learner
 
+🍃 Outside of tech, I enjoy reading, cycling, and spending time in nature.
 
-- 📄 Know about my experiences [github.com](github.com)
+---
+
+# 🎯 Current Focus
+
+- Scalable full-stack applications  
+- Performance & maintainability improvements  
+- Developer experience and clean architecture  
+- Real-world problem solving  
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+React • Next.js • TypeScript • JavaScript • Redux • Tailwind CSS • NextUI • DaisyUI
+
+### Backend
+Node.js • Express • REST APIs • JWT Auth
+
+### Database
+MongoDB • PostgreSQL • Prisma • Mongoose
+
+### Tools & Platforms
+Git • GitHub • Postman • Firebase • Vercel • Netlify
+
+---
+
+# 🤝 I Enjoy
+
+- Improving legacy systems  
+- Refactoring for clarity  
+- Code reviews & mentoring  
+- Turning real needs into working software  
 
 <div align="center">
 
@@ -36,7 +66,6 @@ Hi 👋 I'm Azir — a full-stack developer with 6+ years of experience building
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azir9200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/azir9200) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azir9200@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/azirzaif)
 
 </div>
-
 
 
 # 💼 My latest projects
@@ -98,3 +127,13 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 [![](https://visitcount.itsvg.in/api?id=azir9200&icon=4&color=4)](https://visitcount.itsvg.in)
 
 </div>
+---
+
+# 📫 Contact
+
+**Email:** aziruddin0106@gmail.com  
+**GitHub:** https://github.com/azir9200
+
+---
+
+⭐️ Thanks for visiting my profile!
