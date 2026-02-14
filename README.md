@@ -5,22 +5,24 @@
 </div>
 
 # 💫 About Me:
+<h3 align="left"> Hi 👋 I'm Azir — a full-stack developer with 6+ years of experience building reliable and maintainable web applications.🌟🚀</h3>
 
-<h1 align="center">Hi 👋, I'm Azir</h1>
-<h3 align="left">Nice to meet you!. 🌟🚀</h3>
 <br/>
+🔹 Experienced across frontend, backend, APIs, and databases  
+🔹 Focused on clean architecture and practical solutions  
+🔹 Comfortable taking products from idea to production  
+🔹 Strong communicator with technical & non-technical teams  
+🔹 Always learning and improving
 
-- 🌱 I’m a software developer with over 6 years of experience building reliable, well-structured, and maintainable web applications. I’ve worked across full-stack environments, contributing to frontend features, API design, database development, and production support. I focus on writing clean, readable code and making practical technical decisions that stand the test of time.
+- 🍃Outside of tech, I enjoy reading, cycling, and spending time in nature. Taking breaks away from the screen helps me return with fresh perspective and better solutions.**
 
-I enjoy solving real problems, improving existing systems, and building software that people genuinely find useful. My experience includes both in-house and freelance work, which has strengthened my sense of ownership, responsibility, and delivery quality.
+- 📍 All of my projects are available at [GitHub](github.com/azir9200)
 
-Earlier in my career, I worked in customer-facing roles. That background shaped how I communicate today — listening carefully, asking the right questions, and turning real-world needs into effective technical solutions. I work well with non-technical stakeholders and enjoy supporting other developers through mentoring and code reviews.
+- 💬 Ask me about  Frontend: React, Next.js, TypeScript, Tailwind, Redux
+Backend: Node.js, Express
+Database: MongoDB, PostgreSQL, Prisma
+Tools: Git, Postman, Firebase, Vercel, Netlify
 
-Outside of tech, I enjoy reading, cycling, and spending time in nature. Taking breaks away from the screen helps me return with fresh perspective and better solutions.**
-
-- 👨‍💻 All of my projects are available at [GitHub](github.com/azir9200)
-
-- 💬 Ask me about **React, JavaScript, Typescript, NextJS, Redux,  Tailwind and Express, MongoDB, Mongoose, Prisma, Postgresql, NextUi, DaisyUi, Postman, FireBase, Vercel Netlyfi, JWT**
 
 - 📫 How to reach me **aziruddin0106@gmail.com**
 
@@ -44,7 +46,7 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 
 | Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| *Digital Wallet*     | A full-stack web app about Digital Wallet. Where user can manage their digotal money via app, user authentication (JWT), role-based access, and admin user  and agent have diffrent role action. Built with *React*, *Tailwind CSS*,*Typescript* *Node.js*, *Express*, *mongodb*, Shencn*. | [GitHub](https://github.com/azir9200/digital-wallet-transactly)                                 | [Live Demo](https://digital-wallet-transactly.vercel.app)                 |
+| *Digital Wallet*     | Full-stack digital wallet platform with JWT authentication, role-based access (user/admin/agent), and secure transaction flows. Built with React, TypeScript, Node.js, Express, MongoDB, and Tailwind. | [GitHub](https://github.com/azir9200/digital-wallet-transactly)                                 | [Live Demo](https://digital-wallet-transactly.vercel.app)                 |
 | *Latest Food Display*     | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via *SSLCommerz/ShurjoPay*, user authentication (JWT), role-based access, and admin content moderation. Built with *Next.js*, *Tailwind CSS*, *Node.js*, *Express*, *Prisma*, *PostgreSQL*. | [GitHub](https://github.com/azir9200/latest_food_display)                                 | [Live Demo](https://latest-food-display.vercel.app)                 |
 | *e-commerce-project*             | A frontend website for browsing and buying products online.       | [GitHub](https://github.com/azir9200/imagine-redux-story)                                           | [Live Demo](https://imagine-redux-story.vercel.app) |
 | *PH Health Care*   |   It is hospital Management project where have doctor , patients, admin  or user can play a diffrent role about health and hospital related.                  | [GitHub](https://github.com/azir9200/ph_healthcare_frontend-)          | [Live Demo](https://ph-healthcare-frontend-two.vercel.app)         |
