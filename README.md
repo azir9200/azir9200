@@ -1,13 +1,3 @@
-<div align="center">
-
-![Header](./github-azir-gpt.png)
-
-Full-Stack Developer • 6+ Years Experience • Clean & Practical Solutions
-
-</div>
-
----
-
 # 💫 About Me
 
 I am a Senior Software Engineer with 9+ years of experience designing, developing, and scaling backend systems, with expertise in Node.js, Python, C#, cloud platforms, and database optimization. I specialize in improving system performance, reducing latency, and leading teams to deliver high-impact, reliable solutions.
@@ -77,17 +67,6 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azir9200)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/azir9200)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azir9200&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azir9200&theme=github_dark)
 
 </div>
 
