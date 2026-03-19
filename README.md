@@ -10,50 +10,40 @@ Full-Stack Developer • 6+ Years Experience • Clean & Practical Solutions
 
 # 💫 About Me
 
-I’m a full-stack developer with 6+ years of experience building reliable and maintainable web applications. I focus on clean architecture, practical solutions, and long-term code quality. I’m comfortable working across the stack — from UI to APIs to databases — and taking products from idea to production.
-
-🔹 Full-stack web application development  
-🔹 Clean, readable, maintainable code  
-🔹 API & system design  
-🔹 Production deployment & support  
-🔹 Strong collaboration & communication  
-🔹 Continuous learner
-
-🍃 Outside of tech, I enjoy reading, cycling, and spending time in nature.
+I am a Senior Software Engineer with 9+ years of experience designing, developing, and scaling backend systems, with expertise in Node.js, Python, C#, cloud platforms, and database optimization. I specialize in improving system performance, reducing latency, and leading teams to deliver high-impact, reliable solutions.
 
 ---
-
-# 🎯 Current Focus
-
-- Scalable full-stack applications  
-- Performance & maintainability improvements  
-- Developer experience and clean architecture  
-- Real-world problem solving  
-
----
-
 ## 🧰 Core Stack
 
-### Frontend
-React • Next.js • TypeScript • JavaScript • Redux • Tailwind CSS • NextUI • DaisyUI
+### **Frontend**
+- **React** • **Next.js** • **TypeScript** • **JavaScript** • **Redux** • **Tailwind CSS**  
+- **HTML/CSS** • **SASS** • **NextUI** • **DaisyUI**
 
-### Backend
-Node.js • Express • REST APIs • JWT Auth
+### **Backend**
+- **Node.js** • **Express.js** • **ASP.NET Core** • **.NET Framework**  
+- **REST APIs** • **GraphQL** • **Microservices Architecture** • **Distributed Systems**  
+- **Modular Monolith Architecture** • **Event-Driven Architecture** • **Asynchronous Processing**  
+- **Background Job Processing** • **Queue-Based Processing** • **API Latency Optimization**  
+- **Backend Performance Tuning** • **Rate Limiting** • **Redis Distributed Caching**
 
-### Database
-MongoDB • PostgreSQL • Prisma • Mongoose
+### **Database**
+- **PostgreSQL** • **SQL Server** • **MongoDB** • **Redis**  
+- **Query Optimization** • **Execution Plan Analysis** • **Database Indexing Strategies**  
+- **Transaction Management**
 
-### Tools & Platforms
-Git • GitHub • Postman • Firebase • Vercel • Netlify
+### **Cloud & DevOps**
+- **AWS** (EC2, S3, Lambda) • **Docker** • **CI/CD Pipelines** • **Deployment Automation**
+
+### **Testing & Quality**
+- **Unit Testing** • **Integration Testing** • **Production Debugging** • **Code Reviews**
+
+### **System Monitoring & Observability**
+- **Incident Response** • **Root Cause Analysis** • **System Monitoring** • **Backend Refactoring**
+
+### **Leadership & Mentorship**
+- **Technical Mentorship** • **Team Leadership** • **Code Reviews**  
 
 ---
-
-# 🤝 I Enjoy
-
-- Improving legacy systems  
-- Refactoring for clarity  
-- Code reviews & mentoring  
-- Turning real needs into working software  
 
 <div align="center">
 
@@ -80,16 +70,6 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 
 
 ---
----
-
-## 🤝 I Enjoy Working On
-
-- Refactoring & system cleanup  
-- Improving legacy codebases  
-- Code reviews & mentoring  
-- Turning messy requirements into clean solutions  
-
----
 
 ## 🌐 Connect
 
@@ -97,7 +77,6 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azir9200)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/azir9200)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aziruddin0106@gmail.com)
 
 </div>
 
@@ -116,7 +95,7 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 
 ## 📫 Contact
 
-**Email:** aziruddin0106@gmail.com  
+**Linkedin:** https://linkedin.com/in/azir9200  
 **Profile:** https://github.com/azir9200
 
 ---
