@@ -35,17 +35,6 @@ I am a Senior Software Engineer with 9+ years of experience designing, developin
 
 ---
 
-<div align="center">
-
-## 🌐 Socials:
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azir9200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/azir9200) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azir9200@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/azirzaif)
-
-</div>
-
-
 # 💼 My latest projects
 
 Here is a collection of my full-stack and frontend web development projects. Each project includes GitHub repositories and live demo links.
@@ -58,24 +47,6 @@ Here is a collection of my full-stack and frontend web development projects. Eac
 | *PH Health Care*   |   It is hospital Management project where have doctor , patients, admin  or user can play a diffrent role about health and hospital related.                  | [GitHub](https://github.com/azir9200/ph_healthcare_frontend-)          | [Live Demo](https://ph-healthcare-frontend-two.vercel.app)         |
 | *Book Store Project*           | A Book Display project that showing a list of book. A platform where users can book appointments and reservations with available service providers.               | [GitHub](https://github.com/azir9200/explore-nextjs-nextui)                                 | [Live Demo](https://car-refresh-service.vercel.app/)                   |
 
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azir9200)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/azir9200)
-
-</div>
-
----
-
-## 📫 Contact
-
-**Linkedin:** https://linkedin.com/in/azir9200  
-**Profile:** https://github.com/azir9200
 
 ---
 
