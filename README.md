@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I am a Senior Software Engineer with 9+ years of experience designing, developing, and scaling backend systems, with expertise in Node.js, Python, C#, cloud platforms, and database optimization. I specialize in improving system performance, reducing latency, and leading teams to deliver high-impact, reliable solutions.
+I am a Software Developer with hands of experience designing, developing, and scaling backend systems, with expertise in Node.js, cloud platforms, and database optimization. I specialize in improving system performance, reducing latency, and leading teams to deliver high-impact, reliable solutions.
 
 ---
 ## 🧰 Core Stack
