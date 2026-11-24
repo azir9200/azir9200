@@ -3,37 +3,6 @@
 I am a Software Developer with hands of experience designing, developing, and scaling backend systems, with expertise in Node.js, cloud platforms, and database optimization. I specialize in improving system performance, reducing latency, and leading teams to deliver high-impact, reliable solutions.
 
 ---
-## 🧰 Core Stack
-
-### **Frontend**
-- **React** • **Next.js** • **TypeScript** • **JavaScript** • **Redux** • **Tailwind CSS**  
-- **HTML/CSS** • **SASS** • **NextUI** • **DaisyUI**
-
-### **Backend**
-- **Node.js** • **Express.js** • **ASP.NET Core** • **.NET Framework**  
-- **REST APIs** • **GraphQL** • **Microservices Architecture** • **Distributed Systems**  
-- **Modular Monolith Architecture** • **Event-Driven Architecture** • **Asynchronous Processing**  
-- **Background Job Processing** • **Queue-Based Processing** • **API Latency Optimization**  
-- **Backend Performance Tuning** • **Rate Limiting** • **Redis Distributed Caching**
-
-### **Database**
-- **PostgreSQL** • **SQL Server** • **MongoDB** • **Redis**  
-- **Query Optimization** • **Execution Plan Analysis** • **Database Indexing Strategies**  
-- **Transaction Management**
-
-### **Cloud & DevOps**
-- **AWS** (EC2, S3, Lambda) • **Docker** • **CI/CD Pipelines** • **Deployment Automation**
-
-### **Testing & Quality**
-- **Unit Testing** • **Integration Testing** • **Production Debugging** • **Code Reviews**
-
-### **System Monitoring & Observability**
-- **Incident Response** • **Root Cause Analysis** • **System Monitoring** • **Backend Refactoring**
-
-### **Leadership & Mentorship**
-- **Technical Mentorship** • **Team Leadership** • **Code Reviews**  
-
----
 
 # 💼 My latest projects
 
